@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=s
+comment1.target=boolean\ isInteger(java.lang.String)
+comment2.params=s\ index
+comment2.target=boolean\ isInteger(java.lang.String,\ int)
+numComments=3
